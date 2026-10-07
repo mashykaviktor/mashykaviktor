@@ -61,13 +61,13 @@ Current areas of focus include:
 - Structured context and grounding
 - AI-assisted development with Claude Code, Cursor and GitHub Copilot
 
-I also have commercial experience integrating an AI-powered personalisation
-capability into a FinTech mobile application.
+I also have commercial AI experience from integrating Personetics-powered
+AI personalisation into the Bank of Ireland mobile app.
 
 ## Currently exploring
 
-AI agents • evaluation systems • developer tooling • repository intelligence
-• React Native • frontend architecture
+Agentic software engineering • AI evaluation • developer tooling •
+repository intelligence • advanced React Native architecture
 
 ## Connect
 
